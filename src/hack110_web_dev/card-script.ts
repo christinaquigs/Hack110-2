@@ -46,7 +46,7 @@ export function nameScramble(name: string): string {
             changedName = changedName + name[i];
         }
     }
-    return "Good Day, " + changedName;
+    return "Good Day" + changedName;
 }
 export function newName(name: string): void {
     print(nameScramble(name));
