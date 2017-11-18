@@ -1,0 +1,13 @@
+h1 {
+    font-family: Times New Roman, Arial, sans-serif;
+    color: #99abbd;
+    text-align: center;
+}
+
+#pic{
+    border-radius: 25%;
+    /*, margin: auto; (should center it) .*/
+    margin-left: -20px;
+    margin-right: 20px;
+    text-align: center; /*, this should align the photo .*/
+}
